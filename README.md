@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauricio Heyermann</h1>
-<h3 align="center">A civil engineer from Chile with focus on Data Analysis</h3>
+<h3 align="center">A civil engineer from Chile with focus on Data Analysis, I'm currently living in Sao Paulo, Brazil</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/mheyermann/Portfolio](https://github.com/mheyermann/Portfolio)
 
