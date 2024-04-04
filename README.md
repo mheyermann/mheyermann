@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mauricio Heyermann</h1>
 <h3 align="center">A civil engineer from Chile with focus on Data Analysis, I'm currently living in Sao Paulo, Brazil</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/mheyermann/Portfolio](https://github.com/mheyermann/Portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mheyermann.github.io/MyPortfolio/)
 
-- 📄 Know about my experiences [https://freecodecamp.org/certification/fcc12efbc48-dc9f-4002-9f06-8e0661b0ecdf/data-analysis-with-python-v7](https://freecodecamp.org/certification/fcc12efbc48-dc9f-4002-9f06-8e0661b0ecdf/data-analysis-with-python-v7)
+- 📄 Know about my certificates [freecodecamp](https://freecodecamp.org/certification/fcc12efbc48-dc9f-4002-9f06-8e0661b0ecdf/data-analysis-with-python-v7)
 
 - ⚡ Fun fact **I am a magician and I have traveled over 60 countries!**
 
